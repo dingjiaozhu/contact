@@ -1,0 +1,27 @@
+$(document).ready(function(){
+	var domain = "xxxx.com";
+	$("#wechat").click(function(){
+        window.open("https://upyunimage.konyu.top/img/pay-ding.png");
+    });
+    $("#qq").click(function(){
+        window.open("https://qm.qq.com/q/UNwtw26v2m");
+    });
+    $("#telegram").click(function(){
+        window.open("https://t.me/dingjiaozhu");
+    });
+    $("#x").click(function(){
+        window.open("https://x.com/dingjiaozhu");
+    });
+    $("#email").click(function(){
+        window.open("mailto:dingjiaozhu@djz.icu");
+    });
+    $("#coolapk").click(function(){
+        window.open("https://www.coolapk.com/u/3407118");
+    });
+    $("#bilibili").click(function(){
+        window.open("https://space.bilibili.com/448650177");
+    });
+    $("#weibo").click(function(){
+        window.open("https://weibo.com/dingjiaozhu166/");
+    });
+})
