@@ -13,7 +13,7 @@ $(document).ready(function(){
         window.open("https://x.com/dingjiaozhu");
     });
     $("#email").click(function(){
-        window.open("mailto:dingjiaozhu@djz.icu");
+        window.open("mailto:dingjiaozhu@dingjiaozhu.top");
     });
     $("#coolapk").click(function(){
         window.open("https://www.coolapk.com/u/3407118");
